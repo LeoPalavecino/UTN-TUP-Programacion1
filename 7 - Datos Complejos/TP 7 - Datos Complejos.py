@@ -14,7 +14,6 @@ nuevos_elementos = {"Manzana": 1500, "Pera": 2300} #creamos un diccionario con l
 precios_frutas.update(nuevos_elementos) #método para agregar usando otro diccionario
 print(f"Precios frutas actualizado: {precios_frutas}")
 
-
 """2) Siguiendo con el diccionario precios_frutas que resulta luego de ejecutar el código
 desarrollado en el punto anterior, actualizar los precios de las siguientes frutas:
 ● Banana = 1330
