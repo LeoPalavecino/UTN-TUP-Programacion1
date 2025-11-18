@@ -1,0 +1,4 @@
+lapicera,120.5,30
+regla,200.0,25
+goma,100.5,40
+cartuchera,450,50
